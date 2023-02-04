@@ -1,0 +1,17 @@
+1:
+https://t.me/proxy?server=xn--tor5qut368enl2c.click&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABhcHBsZS5jb20
+
+2:
+https://t.me/proxy?server=xn--tor5qut368enl2c.click&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkcm9wYm94LmNvbQ
+
+3:
+https://t.me/proxy?server=cheshat-mesle.gorbesiah.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
+
+4:
+https://t.me/proxy?server=185.206.95.24&port=443&secret=7oT-apv7kFLjVB2Hk66I4MhzMy5hbWF6b25hd3MuY29t
+
+
+these proxies work with special DNSs
+like:
+178.22.122.100
+185.51.200.2
